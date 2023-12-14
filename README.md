@@ -29,7 +29,10 @@
 - Update Store with Trailer Video Data
 - Embedded the Youtube video and make it autoplay and mute
 - Tailwind Classes to make Main Container look awesome
-
+- Build Secondary Component
+- Added MovieList
+- Added MovieCard
+- Fetch Data for nowPlaying, Popular Movies and store in the appStore
 
 # Features
 - Login
