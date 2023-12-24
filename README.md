@@ -33,6 +33,9 @@
 - Added MovieList
 - Added MovieCard
 - Fetch Data for nowPlaying, Popular Movies and store in the appStore
+- GPT Search PAge
+- GPT Search bar
+- Multi-language Feature in our App (Bonus)
 
 # Features
 - Login
