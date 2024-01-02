@@ -36,6 +36,8 @@
 - GPT Search PAge
 - GPT Search bar
 - Multi-language Feature in our App (Bonus)
+- Added Gpt Api to
+- Reuses MovieList to shoe the GPT Movie Suggestion Result
 
 # Features
 - Login
